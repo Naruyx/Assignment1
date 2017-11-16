@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    margin: auto;
+    width: 750px;
+    background-color: #003366;
+}
+
+.phpBody
+{
+    background-color: gray;
+}
+
+h2
+{
+    background-color: gray;
+}
+table
+{
+    border: 1px solid black;
+    margin: auto;
+    background-color: white;
+}
+
+th,td
+{
+    border: 1px solid black;    
+}
+.footer
+{
+    color: white;
+    text-align: right;
+}
